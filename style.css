@@ -1,0 +1,46 @@
+*{
+ margin: 0px;
+ padding: 0px;
+ box-sizing: border-box;
+
+
+/* scroll-behavior: auto; */
+ 
+}
+.image1{
+ height: 100%;
+ width: 200px; 
+ 
+}
+.hero{
+ background-image: url("https://thumbs.dreamstime.com/b/legal-services-concept-gavel-word-legal-services-sound-block-legal-services-101424374.jpg");
+ height: 100%;
+ width: 100%;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+.hero1{
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbNbbAaAKZmzoD26lH-ZkJa8Wzy7DFcwxMQ&usqp=CAU");
+ height: 100%;
+ width: 100%;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+.hero2{
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJWlRIPl-6c08J-_NIuavtL__owDGb1wH6NQ&usqp=CAU");
+ height: 100%;
+ width: 100%;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+.hero3{
+ background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJYpeJ0SQ7C57PT0Yrj0BUTSgjSoJE7ysJuEHMnQtq59wqoeBh");
+ height: 100%;
+ width: 100%;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
